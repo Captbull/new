@@ -34,24 +34,26 @@ code {
   border-radius: 5px;
   outline: none;
   height: 2rem;
-  width: 20rem;
+  width: 40rem;
 }
 
 .wrapper{
-  height: 30rem;
-  width: 30rem;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: burlywood;
   border-radius: 10px;
+  flex-direction: column;
 }
 .wrap{
-  height: 30rem;
-  width: 30rem;
+  margin-left: 35rem;
+  margin-top: 10rem;
+  height: 40rem;
+  width: 50rem;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: burlywood;
   border-radius: 10px;
+  flex-direction: column;
 }
